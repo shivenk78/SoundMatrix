@@ -11,10 +11,10 @@ public class Beat{
         this.notes = notes;
         createButtons();
     }
-    public Beat(String str){
-        notes = new int[str.length()];
-        for(int i=0; i<str.length()-1; i++)
-            notes[i] = (str.substring(i,i+1).equals("1")) ? 1 : 0;
+    public Beat(){
+        notes = new int[13];
+        for(int i=0; i<notes.length-1; i++)
+            notes[i] = 0;
         createButtons();
     }
 
