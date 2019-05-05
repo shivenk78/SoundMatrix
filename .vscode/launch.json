@@ -5,21 +5,7 @@
             "name": "CodeLens (Launch) - SoundMatrix",
             "request": "launch",
             "mainClass": "SoundMatrix",
-            "projectName": "SoundMatrix_103e0e09"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - SoundMatrix",
-            "request": "launch",
-            "mainClass": "SoundMatrix",
             "projectName": "SoundMatrix_4f700ee0"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - SoundMatrix",
-            "request": "launch",
-            "mainClass": "SoundMatrix",
-            "projectName": "SoundMatrix_b658d008"
         }
     ]
 }
